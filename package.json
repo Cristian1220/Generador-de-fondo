@@ -1,0 +1,19 @@
+{
+  "name": "generador-de-fondo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian1220/Generador-de-fondo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristian1220/Generador-de-fondo/issues"
+  },
+  "homepage": "https://github.com/Cristian1220/Generador-de-fondo#readme"
+}
